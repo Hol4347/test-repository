@@ -1,4 +1,4 @@
 Welcome into my GitHub!
 
 
-More to come soon.
+Live, Love, Git.
